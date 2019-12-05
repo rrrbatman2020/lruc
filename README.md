@@ -11,6 +11,7 @@
 $ git clone https://github.com/rrrbatman2020/lruc.git
 $ cd lruc
 $ make
+$ ./lruc "http://speedtest.tele2.net/50MB.zip" "./output"
 ```
 
 ## Что и как примерно работает
